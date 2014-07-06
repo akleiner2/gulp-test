@@ -1,0 +1,1 @@
+This project's purpose is to serve as practice writing a Gulpfile and going through all of the necessary steps in order to get everything working. That's all!
