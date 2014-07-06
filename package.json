@@ -1,0 +1,22 @@
+{
+  "name": "GulpTest",
+  "version": "0.0.0",
+  "description": "A quick test for Gulp to compile SASS, minify, and concatenate JavScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akleiner2/gulp-test.git"
+  },
+  "keywords": [
+    "Gulp"
+  ],
+  "author": "Allen Kleiner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akleiner2/gulp-test/issues"
+  },
+  "homepage": "https://github.com/akleiner2/gulp-test"
+}
