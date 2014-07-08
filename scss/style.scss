@@ -1,0 +1,9 @@
+$bgcol: #346218;
+$txtcol: #ff1164;
+
+.container{ 
+	background-color: $bgcol;
+	h1, p{
+		background-color: $txtcol;
+	}
+}
