@@ -5,4 +5,4 @@
 $(document).ready(function(){
 	$('h1').hide().fadeIn("slow");
 	$('p').css("opacity", 0).delay(500).animate({opacity: 1});
-})
+});
